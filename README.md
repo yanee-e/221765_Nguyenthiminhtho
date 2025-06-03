@@ -1,3 +1,2 @@
 # 221765_Nguyenthiminhtho
-buoi 5
-
+This repository is used for learning GitHub on web.
